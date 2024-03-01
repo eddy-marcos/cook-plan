@@ -33,7 +33,7 @@ const lunch = [
   "Tortas de carne",
   "Hamburguesa",
   "Posta cerdo salsa BBQ",
-  "Perros",
+  "Sopa Azteca",
   "Pasta en salsa blanca y pollo",
   "Filet de pescado empanizado",
   "Fajitas de pollo saltedas",
@@ -48,22 +48,22 @@ const lunch = [
   "Arroz con atún",
 ];
 
-const dinner = [
+dinner = [
   "Tortilla con jamón y queso",
   "Prensadas",
   "Pan jamón y queso",
   "Sándwich huevo",
   "Tortilla con huevo",
-  "Waffles de queso",
-  "Waffles dulces",
   "Tostada con queso y jamón",
-  "Avena reposada",
   "Tostada con huevo",
   "Pan con queso crema y jamón",
-  "Tostada francesa",
-  "Banana split",
   "Muffins huevo jamón queso espinaca",
   "Burritos frijol y queso",
+  "Tortitas brocoli y zanahoria",
+  "Mini pizzas",
+  "Sándwich",
+  "Hashbrowns con huevo",
+  "Pinto",
 ];
 
 const generatePlanButton = document.getElementById("generateBtn");
